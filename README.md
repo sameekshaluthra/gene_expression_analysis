@@ -82,4 +82,4 @@ You must have **R** installed on your system.
 After running the script, the following files will appear in the directory:
 1.  **`gene_expression_summary_table.csv`**: A spreadsheet showing the Mean Expression and Standard Deviation for each gene per condition.
 2.  **`gene_expression_summary_plot.png`**: A bar chart comparing Normal vs Cancer expression with error bars.
-![](./ gene_expression_summary_plot.png)
+![](https://github.com/sameekshaluthra/gene_expression_analysis/blob/main/gene_expression_summary_plot.png?raw=true)
